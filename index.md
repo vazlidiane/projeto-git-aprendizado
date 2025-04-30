@@ -1,16 +1,19 @@
----
-layout: default
-title: Portfólio de Lidiane Vaz
----
+<img src="imagens/capa.jpeg" alt="Capa do Portfólio" width="100%" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); margin-bottom: 24px;" />
 
-<img src="imagens/capa.jpg" alt="Capa do Portfólio" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
+<h1 align="center">📊 Portfólio de Análise de Dados</h1>
 
-# 👋 Olá! Eu sou Lidiane Vaz
-
-🎯 Estou em transição de carreira para a área de **Análise de Dados**, e este é meu portfólio de estudos.  
-Aqui compartilho aprendizados práticos em **Python**, **SQL**, **Power BI** e **Excel**, além de resumos, projetos e arquivos úteis.
+<p align="center">
+  <strong>Por Lidiane Vaz</strong><br>
+  <em>Em transição de carreira para a área de Dados</em>
+</p>
 
 ---
+
+## 👋 Sobre Mim
+
+🎯 Sou apaixonada por transformar dados em decisões!  
+Neste espaço, compartilho minha jornada prática com <strong>Python</strong>, <strong>SQL</strong>, <strong>Power BI</strong> e <strong>Excel</strong> — incluindo arquivos, projetos e resumos em PDF.
+
 
 ## 📘 Resumo dos Meus Estudos
 
