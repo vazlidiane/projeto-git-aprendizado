@@ -21,7 +21,8 @@ Aqui você encontrará minhas anotações práticas em **Python**, **SQL**, **Po
 
 📥 [Clique aqui para ver o PDF do resumo dos estudos](./Projeto%20Git%20Aprendizado/documentos/📘%20Diário%20de%20Estudos%20—%20Análise%20de%20Dados.pdf)
 
-📥 [Clique aqui para baixar o PDF do resumo](https://raw.githubusercontent.com/vazlidiane/projeto-git-aprendizado/main/documentos/%F0%9F%93%98%20Di%C3%A1rio%20de%20Estudos%20%E2%80%94%20An%C3%A1lise%20de%20Dados.pdf)
+📥 [Clique aqui para baixar o PDF do resumo](https://raw.githubusercontent.com/vazlidiane/projeto-git-aprendizado/main/Projeto%20Git%20Aprendizado/documentos/diario-estudos-analise-dados.pdf)
+
 
 
 ---
