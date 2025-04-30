@@ -1,4 +1,11 @@
+---
+layout: default
+title: Portfólio de Lidiane Vaz
+---
+
 # 👋 Olá! Eu sou Lidiane Vaz
+
+Este site foi criado com GitHub Pages!
 
 🎯 Estou em transição de carreira e criei este repositório como meu **diário de estudos em Análise de Dados**.  
 Aqui você encontrará anotações práticas em **Python**, **SQL**, **Power BI**, **Excel**, além de projetos e resumos em PDF para acompanhar minha evolução.
