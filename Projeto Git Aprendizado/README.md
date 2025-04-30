@@ -14,12 +14,13 @@ Este repositório é o meu diário de estudos com foco em me tornar um Analista 
 
 ## 🗓️ Progresso dos Estudos
 
-| Dia | Tema   | Descrição                              |
-|-----|--------|----------------------------------------|
-| 01  | Python | Listas, dicionários e pandas CSV       |
-| 02  | SQL    | SELECT, WHERE, ORDER BY                |
-| 03  | Power BI | Importar dados, filtros e gráficos   |
-| 04  | Excel     | Fórmulas, filtros e tabela dinâmica |
+| Dia | Tema        | Descrição                              |
+|-----|-------------|----------------------------------------|
+| 01  | Python      | Listas, dicionários e pandas CSV       |
+| 02  | SQL         | SELECT, WHERE, ORDER BY                |
+| 03  | Power BI    | Importar dados, filtros e gráficos     |
+| 04  | Excel       | Fórmulas, filtros e tabela dinâmica    |
+| 05  | Integração  | Python, SQL e Power BI juntos          |
 
 ---
 
