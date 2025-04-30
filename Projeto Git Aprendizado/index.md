@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Lidiane Vaz
 
 🎯 Estou em transição de carreira e criei este repositório como meu **diário de estudos em Análise de Dados**.  
-Aqui você encontrará minhas anotações práticas em **Python**, **SQL**, **Power BI** e **Excel**, além de exemplos reais de integração entre ferramentas.
+Aqui você encontrará anotações práticas em **Python**, **SQL**, **Power BI**, **Excel**, além de projetos e resumos em PDF para acompanhar minha evolução.
 
 ---
 
@@ -19,23 +19,36 @@ Aqui você encontrará minhas anotações práticas em **Python**, **SQL**, **Po
 
 ## 📄 Resumo em PDF
 
-📥 [Clique aqui para ver o PDF do resumo dos estudos](./Projeto%20Git%20Aprendizado/documentos/📘%20Diário%20de%20Estudos%20—%20Análise%20de%20Dados.pdf)
-
 📥 [Clique aqui para baixar o PDF do resumo](https://raw.githubusercontent.com/vazlidiane/projeto-git-aprendizado/main/Projeto%20Git%20Aprendizado/documentos/diario-estudos-analise-dados.pdf)
-
-
 
 ---
 
-## 🔧 Tecnologias utilizadas
+## 🧰 Tecnologias utilizadas
 
 - Python (Pandas, SQLite)
 - SQL básico
 - Power BI Desktop
 - Microsoft Excel
+- Git e GitHub
+
+---
+
+## 🌱 Próximos passos
+
+- [ ] Criar mini-projetos com dados reais
+- [ ] Conectar Python com banco de dados SQLite/PostgreSQL
+- [ ] Construir dashboards no Power BI com dados públicos
+- [ ] Adicionar mais PDFs e artigos ao portfólio
 
 ---
 
 ## 📫 Contato
 
-Se quiser trocar ideias ou conhecer meu progresso, me encontre no [LinkedIn](https://www.linkedin.com) ou envie um e-mail para **seuemail@email.com**.
+Se quiser trocar ideias ou acompanhar meu progresso:
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/lidiane-vaz) 
+- 📧 lidiane.vaz.ti@gmail.com
+
+---
+
+> Obrigado por visitar meu portfólio! 🚀
