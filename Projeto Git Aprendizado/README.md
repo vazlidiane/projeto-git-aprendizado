@@ -17,7 +17,7 @@ Este repositório é o meu diário de estudos com foco em me tornar um Analista 
 | Dia | Tema   | Descrição                             |
 |-----|--------|-----------------------------------------|
 | 01  | Python | Listas, dicionários e pandas CSV       |
-| 02  | SQL    | (em breve)                             |
+| 02  | SQL    | SELECT, WHERE, ORDER BY                |
 | 03  | Power BI | (em breve)                           |
 
 ---
