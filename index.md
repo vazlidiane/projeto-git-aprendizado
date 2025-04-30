@@ -3,18 +3,18 @@ layout: default
 title: Portfólio de Lidiane Vaz
 ---
 
+<img src="imagens/capa.jpg" alt="Capa do Portfólio" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
+
 # 👋 Olá! Eu sou Lidiane Vaz
 
-Este site foi criado com GitHub Pages!
-
-🎯 Estou em transição de carreira e criei este repositório como meu **diário de estudos em Análise de Dados**.  
-Aqui você encontrará anotações práticas em **Python**, **SQL**, **Power BI**, **Excel**, além de projetos e resumos em PDF para acompanhar minha evolução.
+🎯 Estou em transição de carreira para a área de **Análise de Dados**, e este é meu portfólio de estudos.  
+Aqui compartilho aprendizados práticos em **Python**, **SQL**, **Power BI** e **Excel**, além de resumos, projetos e arquivos úteis.
 
 ---
 
 ## 📘 Resumo dos Meus Estudos
 
-| Dia | Tema       | Descrição                                 |
+| Dia | Tema       | Descrição                               |
 |-----|------------|-------------------------------------------|
 | 01  | Python     | Listas, dicionários, leitura de CSV       |
 | 02  | SQL        | SELECT, WHERE, ORDER BY                   |
@@ -30,22 +30,13 @@ Aqui você encontrará anotações práticas em **Python**, **SQL**, **Power BI*
 
 ---
 
-## 🧰 Tecnologias utilizadas
+## 🛠️ Tecnologias em estudo
 
-- Python (Pandas, SQLite)
-- SQL básico
-- Power BI Desktop
-- Microsoft Excel
-- Git e GitHub
-
----
-
-## 🌱 Próximos passos
-
-- [ ] Criar mini-projetos com dados reais
-- [ ] Conectar Python com banco de dados SQLite/PostgreSQL
-- [ ] Construir dashboards no Power BI com dados públicos
-- [ ] Adicionar mais PDFs e artigos ao portfólio
+- Python (pandas, matplotlib)
+- SQL (consultas básicas)
+- Power BI (dashboards e visualizações)
+- Excel (funções e filtros)
+- Git e GitHub (controle de versão)
 
 ---
 
