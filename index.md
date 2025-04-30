@@ -1,4 +1,4 @@
-<img src="imagens/capa.jpeg" alt="Capa do Portfólio" width="100%" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); margin-bottom: 24px;" />
+<img src="imagens/capa.jpg" alt="Capa do Portfólio" width="100%" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); margin-bottom: 24px;" />
 
 <h1 align="center">📊 Portfólio de Análise de Dados</h1>
 
