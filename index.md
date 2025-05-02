@@ -18,6 +18,25 @@
 Sou apaixonada por transformar dados em decisões!  
 Neste espaço, compartilho minha jornada prática com <strong>Python</strong>, <strong>SQL</strong>, <strong>Power BI</strong> e <strong>Excel</strong> — incluindo arquivos, projetos e resumos em PDF.
 
+---
+
+---
+
+## 🚀 Meus Projetos
+
+### 📊 Análise de Vendas com Power BI
+<img src="imagens/projeto-powerbi.jpg" alt="Dashboard Power BI" width="100%" style="border-radius: 12px; margin-bottom: 12px;" />
+**Descrição**: Dashboard criado com Power BI para análise de vendas mensais, lucro e metas por região.  
+🔗 [Ver Projeto no GitHub](https://github.com/vazlidiane/projeto-powerbi)
+
+---
+
+### 🐍 Análise de Dados com Python e Pandas
+<img src="imagens/projeto-python.jpg" alt="Análise com Python e Pandas" width="100%" style="border-radius: 12px; margin-bottom: 12px;" />
+**Descrição**: Script em Python que automatiza a limpeza e análise de dados de vendas com Pandas.  
+🔗 [Ver Projeto no GitHub](https://github.com/vazlidiane/projeto-python)
+
+---
 
 ## 📘 Resumo dos Meus Estudos
 
