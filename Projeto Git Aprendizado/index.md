@@ -58,4 +58,4 @@ Se quiser trocar ideias ou acompanhar meu progresso:
 
 ---
 
-> Obrigado por visitar meu portfólio! 🚀
+> Obrigado por visitar meu portfólio! 

@@ -13,6 +13,17 @@
 
 ---
 
+<p align="center">
+  <a href="#sobre-mim">Sobre Mim</a> • 
+  <a href="#certificados">Certificados</a> • 
+  <a href="#meus-projetos">Projetos</a> • 
+  <a href="#resumo-dos-meus-estudos">Resumo</a> • 
+  <a href="#tecnologias-em-estudo">Tecnologias</a> • 
+  <a href="#contato">Contato</a>
+</p>
+
+---
+
 ## Sobre Mim
 
 Sou apaixonada por transformar dados em decisões!  
