@@ -49,17 +49,16 @@ Neste espaço, compartilho minha jornada prática com <strong>Python</strong>, <
 
 ## 📬 Contato
 
-<p align="center">
-  <a href="mailto:lidiane.vaz.ti@gmail.com">
-    <img src="imagens/email-icon.png" alt="E-mail" width="40" style="margin: 0 10px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/lidiane-vaz" target="_blank">
-    <img src="imagens/linkedin-icon.png" alt="Linkedln" width="40" style="margin: 0 10px;" />
-  </a>
-  <a href="https://github.com/vazlidiane" target="_blank">
-    <img src="imagens/github-icon.png" alt="GitHub" width="40" style="margin: 0 10px;" />
-  </a>
-</p>
+<a href="mailto:lidiane.vaz.ti@gmail.com">
+  <img src="imagens/email-icon.png" alt="E-mail" width="40" style="margin: 0 10px;" />
+</a>
+<a href="https://www.linkedin.com/in/lidiane-vaz" target="_blank">
+  <img src="imagens/linkedin-icon.png" alt="LinkedIn" width="40" style="margin: 0 10px;" />
+</a>
+<a href="https://github.com/vazlidiane" target="_blank">
+  <img src="imagens/github-icon.png" alt="GitHub" width="40" style="margin: 0 10px;" />
+</a>
+
 
 
 > Obrigado por visitar meu portfólio! 
