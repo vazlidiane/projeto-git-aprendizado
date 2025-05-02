@@ -9,9 +9,9 @@
 
 ---
 
-## 👋 Sobre Mim
+## Sobre Mim
 
-🎯 Sou apaixonada por transformar dados em decisões!  
+Sou apaixonada por transformar dados em decisões!  
 Neste espaço, compartilho minha jornada prática com <strong>Python</strong>, <strong>SQL</strong>, <strong>Power BI</strong> e <strong>Excel</strong> — incluindo arquivos, projetos e resumos em PDF.
 
 
@@ -33,7 +33,7 @@ Neste espaço, compartilho minha jornada prática com <strong>Python</strong>, <
 
 ---
 
-## 🛠️ Tecnologias em estudo
+## Tecnologias em estudo
 
 - Python (pandas, matplotlib)
 - SQL (consultas básicas)
@@ -43,13 +43,20 @@ Neste espaço, compartilho minha jornada prática com <strong>Python</strong>, <
 
 ---
 
-## 📫 Contato
+## 📬 Contato
 
-Se quiser trocar ideias ou acompanhar meu progresso:
+<p align="center">
+  <a href="mailto:lidiane.vaz.ti@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/lidiane-vaz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/vazlidiane" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/lidiane-vaz) 
-- 📧 lidiane.vaz.ti@gmail.com
 
----
+> Obrigado por visitar meu portfólio! 
 
-> Obrigado por visitar meu portfólio! 🚀
