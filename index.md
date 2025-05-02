@@ -20,9 +20,17 @@ Neste espaço, compartilho minha jornada prática com <strong>Python</strong>, <
 
 ---
 
+## 📜 Certificados
+
+### 📄 Curso de Power BI - Alura
+📥 [Ver Certificado PDF](documentos/certificado-powerbi.pdf)
+
+### 📄 Curso de Python para Dados - DIO
+📥 [Ver Certificado PDF](documentos/certificado-python.pdf)
+
 ---
 
-## 🚀 Meus Projetos
+## Meus Projetos
 
 ### 📊 Análise de Vendas com Power BI
 <img src="imagens/projeto-powerbi.jpg" alt="Dashboard Power BI" width="100%" style="border-radius: 12px; margin-bottom: 12px;" />
@@ -77,7 +85,6 @@ Neste espaço, compartilho minha jornada prática com <strong>Python</strong>, <
 <a href="https://github.com/vazlidiane" target="_blank">
   <img src="imagens/github-icon.png" alt="GitHub" width="40" style="margin: 0 10px;" />
 </a>
-
 
 
 > Obrigado por visitar meu portfólio! 
