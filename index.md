@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="imagens/capa.jpg" alt="Capa do Portfólio" width="70%" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); margin-bottom: 24px;" />
+  <img src="imagens/capa.jpg" alt="Capa do Portfólio" 
+       style="max-width: 800px; width: 100%; border-radius: 12px; 
+              box-shadow: 0 4px 12px rgba(0,0,0,0.15); margin-bottom: 24px;" />
 </p>
 
 <h1 align="center"> Portfólio de Análise de Dados</h1>
