@@ -1,9 +1,9 @@
 <img src="imagens/capa.jpg" alt="Capa do Portfólio" width="100%" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); margin-bottom: 24px;" />
 
-<h1 align="center">📊 Portfólio de Análise de Dados</h1>
+<h1 align="center"> Portfólio de Análise de Dados</h1>
 
 <p align="center">
-  <strong>Por Lidiane Vaz</strong><br>
+  <strong> Lidiane Vaz</strong><br>
   <em>Em transição de carreira para a área de Dados</em>
 </p>
 
@@ -33,7 +33,7 @@ Neste espaço, compartilho minha jornada prática com <strong>Python</strong>, <
 
 ---
 
-## Tecnologias em estudo
+## 🛠️ Tecnologias em estudo
 
 - Python (pandas, matplotlib)
 - SQL (consultas básicas)
@@ -47,13 +47,13 @@ Neste espaço, compartilho minha jornada prática com <strong>Python</strong>, <
 
 <p align="center">
   <a href="mailto:lidiane.vaz.ti@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-000?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="imagens/email-icon.png" alt="E-mail" width="40" style="margin: 0 10px;" />
   </a>
   <a href="https://www.linkedin.com/in/lidiane-vaz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="imagens/linkedin-icon.png" alt="Linkedln" width="40" style="margin: 0 10px;" />
   </a>
   <a href="https://github.com/vazlidiane" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="imagens/github-icon.png" alt="GitHub" width="40" style="margin: 0 10px;" />
   </a>
 </p>
 
