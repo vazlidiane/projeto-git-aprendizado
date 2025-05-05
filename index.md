@@ -14,11 +14,11 @@
 ---
 
 <p align="center">
-  <a href="#sobre-mim">Sobre Mim</a> • 
+  <h2 id="sobre-mim">Sobre Mim</h2>
   <a href="#certificados">Certificados</a> • 
-  <a href="#meus-projetos">Projetos</a> • 
-  <a href="#resumo-dos-meus-estudos">Resumo</a> • 
-  <a href="#tecnologias-em-estudo">Tecnologias</a> • 
+  <a href="#meus-projetos">Meus Projetos</a> • 
+  <a href="#resumo-dos-meus-estudos">Resumo dos Meus Estudos</a> • 
+  <a href="#tecnologias-em-estudo">Tecnologias em estudo</a> • 
   <a href="#contato">Contato</a>
 </p>
 
@@ -31,7 +31,7 @@ Neste espaço, compartilho minha jornada prática com <strong>Python</strong>, <
 
 ---
 
-## 📜 Certificados
+## Certificados
 
 ### 📄 Curso de Power BI - Alura
 📥 [Ver Certificado PDF](documentos/certificado-powerbi.pdf)
@@ -57,7 +57,7 @@ Neste espaço, compartilho minha jornada prática com <strong>Python</strong>, <
 
 ---
 
-## 📘 Resumo dos Meus Estudos
+## Resumo dos Meus Estudos
 
 | Dia | Tema       | Descrição                                 |
 |-----|------------|-------------------------------------------|
@@ -69,13 +69,13 @@ Neste espaço, compartilho minha jornada prática com <strong>Python</strong>, <
 
 ---
 
-## 📄 Resumo em PDF
+## Resumo em PDF
 
 📥 [Clique aqui para baixar o PDF do resumo](https://raw.githubusercontent.com/vazlidiane/projeto-git-aprendizado/main/Projeto%20Git%20Aprendizado/documentos/diario-estudos-analise-dados.pdf)
 
 ---
 
-## 🛠️ Tecnologias em estudo
+## Tecnologias em estudo
 
 - Python (pandas, matplotlib)
 - SQL (consultas básicas)
@@ -85,7 +85,7 @@ Neste espaço, compartilho minha jornada prática com <strong>Python</strong>, <
 
 ---
 
-## 📬 Contato
+## Contato
 
 <a href="mailto:lidiane.vaz.ti@gmail.com">
   <img src="imagens/email-icon.png" alt="E-mail" width="40" style="margin: 0 10px;" />
