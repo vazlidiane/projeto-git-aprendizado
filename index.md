@@ -14,12 +14,12 @@
 ---
 
 <p align="center">
-  <h2 id="sobre-mim">Sobre Mim</h2>
+  <a href="sobre-mim">Sobre Mim</a> •
   <a href="#certificados">Certificados</a> • 
   <a href="#meus-projetos">Meus Projetos</a> • 
   <a href="#resumo-dos-meus-estudos">Resumo dos Meus Estudos</a> • 
   <a href="#tecnologias-em-estudo">Tecnologias em estudo</a> • 
-  <a href="#contato">## Contato</a>
+  <a href="#contato">Contato</a>
 </p>
 
 ---
