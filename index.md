@@ -19,7 +19,7 @@
   <a href="#meus-projetos">Meus Projetos</a> • 
   <a href="#resumo-dos-meus-estudos">Resumo dos Meus Estudos</a> • 
   <a href="#tecnologias-em-estudo">Tecnologias em estudo</a> • 
-  <a href="#contato">Contato</a>
+  <a href="#contato">## Contato</a>
 </p>
 
 ---
