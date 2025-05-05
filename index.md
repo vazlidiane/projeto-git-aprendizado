@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <a href="sobre-mim">Sobre Mim</a> •
+  <a href="#sobre-mim">Sobre Mim</a> •
   <a href="#certificados">Certificados</a> • 
   <a href="#meus-projetos">Meus Projetos</a> • 
   <a href="#resumo-dos-meus-estudos">Resumo dos Meus Estudos</a> • 
