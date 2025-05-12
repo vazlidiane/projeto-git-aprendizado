@@ -46,7 +46,9 @@ Neste espaço, compartilho minha jornada prática com <strong>Python</strong>, <
 ### 📊 Análise de Vendas com Power BI
 <img src="imagens/projeto-powerbi.jpg" alt="Dashboard Power BI" width="100%" style="border-radius: 12px; margin-bottom: 12px;" />
 **Descrição**: Dashboard criado com Power BI para análise de vendas mensais, lucro e metas por região.  
-🔗 [Ver Projeto no GitHub](https://github.com/vazlidiane/projeto-powerbi)
+
+
+🔗 [Ver Projeto no GitHub](https://https://github.com/vazlidiane/projeto-git-aprendizado)
 
 ---
 
